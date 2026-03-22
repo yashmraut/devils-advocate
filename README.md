@@ -14,7 +14,7 @@
 
 ## 🔗 Live Demo
 
-**[Try it on Hugging Face Spaces →](YOUR_HUGGING_FACE_URL)**
+**Try it on Hugging Face Spaces → https://huggingface.co/spaces/yash7raut/devils-advocate**
 
 ---
 
@@ -115,7 +115,7 @@ devils-advocate/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/devils-advocate.git
+git clone https://github.com/yashmraut/devils-advocate.git
 cd devils-advocate
 ```
 
